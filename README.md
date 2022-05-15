@@ -1,9 +1,11 @@
 ### Hi there 👋: 🛠
 
+- 🔭 I’m currently working on determining the coffee machine preference at my work place. 
+
 ```mermaid
-pie title Preference over coffee machines
-    "The new one" : 75
-    "The old one" : 25
+pie title Coffee machine preference
+    "The new one" : 74.25
+    "The old one" : 25.75
 ```
     
 <!--
@@ -11,7 +13,7 @@ pie title Preference over coffee machines
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
