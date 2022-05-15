@@ -1,11 +1,11 @@
 ### Hi there 👋: 🛠
 
-- 🔭 I’m currently working on determining the coffee machine preference at my work place. 
+- 🔭 I’m currently working on determining the coffee machine preference at my workplace. 
 
 ```mermaid
 pie title Coffee machine preference
-    "The new one" : 74.25
-    "The old one" : 25.75
+    "The old one" : 74.25
+    "The new one" : 25.75
 ```
     
 <!--
