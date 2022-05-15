@@ -1,5 +1,9 @@
 ### Hi there 👋: 🛠
 
+pie title Preference over coffee machines
+    "The new one" : 75
+    "The old one" : 25
+    
 <!--
 **anyosa/anyosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
