@@ -1,12 +1,7 @@
-### Hi there 👋: 🛠
+### Hi there 👋: 
 
-- 🔭 I’m currently working on determining the coffee machine preference at my workplace. 
-
-```mermaid
-pie title Coffee machine preference
-    "The old one" : 74.25
-    "The new one" : 25.75
-```
+- 🔭 I’m currently working on my PhD in stats.
+- 📫 How to reach me: Check the links.
     
 <!--
 **anyosa/anyosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
