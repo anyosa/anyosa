@@ -1,6 +1,6 @@
 ### Hi there 👋: 
 
-- 🔭 Finishing my PhD in stats.
+- 🔭 I'm finishing my PhD in stats.
 - 🌱 I’m currently learning Julia language.
 - 👯 I’m looking to collaborate on industry projects.
 - 🤔 I’m looking for a mentor in industry specially in the energy sector.
