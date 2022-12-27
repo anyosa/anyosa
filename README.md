@@ -3,7 +3,6 @@
 - 🔭 I'm finishing my PhD in stats.
 - 🌱 I’m currently learning Julia language.
 - 👯 I’m looking to collaborate on industry projects.
-- 🤔 I’m looking for a mentor in industry specially in the energy sector.
 - 💬 Ask me about stats and modelling.
 - 📫 How to reach me: Check the links.
     
